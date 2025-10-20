@@ -3,7 +3,6 @@ classic_mas_lab_02_dynamic_environment_simulation
 
 🖋️ Overview
 
-
 This experiment explores how intelligent agents behave and adapt within dynamic simulation environments that mirror the complexity of real-world systems.
 It focuses on understanding how emergent patterns such as cooperation, competition, and self-organization arise naturally when multiple agents interact over time.
 Through controlled simulation, researchers can analyze how collective intelligence evolves without centralized control, highlighting the importance of design precision and environmental balance.
